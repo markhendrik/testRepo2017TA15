@@ -7,7 +7,6 @@ public class LinkedListDemo {
 		// lList.add("Kuvar");
 		// lList.remove();
 		// System.out.println("Number of elements: " + lList.size());
-		
 	}
 
 }
